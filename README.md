@@ -196,8 +196,8 @@ int main(int argc, char **argv)
 ```
 ### Removing the memsets
 ```
-Developed By : G.Chethan Kumar
-Register no. : 212222240022
+Developed By : Marella Dharanesh
+Register no. : 212222240062
 ```
 ```
 #include "../common/common.h"
