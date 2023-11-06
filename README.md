@@ -22,7 +22,7 @@ Declare the main function. In the main function set up the device & data size of
 Execute the program and run the terminal . Check the performance using nvprof.
 ## Program :
 ```
-Developed By : MARELLA DHARANESH
+Developed By : Marella Dharanesh
 Register no. : 212222240062
 ```
 ```
